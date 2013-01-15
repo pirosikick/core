@@ -41,3 +41,4 @@ Fuel::$is_test = true;
 
 // Import the TestCase class
 import('testcase');
+
